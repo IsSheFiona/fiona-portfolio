@@ -1,0 +1,55 @@
+.App {
+  background-color:black;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.AppLink:hover {
+  background-image: url(https://media.giphy.com/media/XuBNdP9Pb7W9i/source.gif);
+}
+
+.clickable-option {
+  cursor: pointer;
+  color: white;
+  text-decoration: none;
+  padding-top: 20px;
+}
+.clickable-option:hover {
+  color: #FF00F0;
+  text-decoration: none;
+
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.coffee {
+  font-size: 100px;
+}
+
+/* .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+} */
+  
+
+  
+  /* h3 {
+    font-size: 100px; 
+    color: white;
+    position: absolute;
+    z-index: 0;
+  } */

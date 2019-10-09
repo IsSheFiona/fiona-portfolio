@@ -1,0 +1,12 @@
+code {
+  font-family: 'Press Start 2P', cursive;
+}
+
+
+body {
+  margin: 0;
+  font-family: 'Press Start 2P', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
