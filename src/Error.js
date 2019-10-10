@@ -9,10 +9,10 @@ export default function Error() {
       <div classname="text-question"> 
             <FontAwesomeIcon icon={faCoffee} className="coffee" />
           <p>
-            Oh no! You've missed out on the opportunity to meet your favourite new software developer.
+            Oh no! You might have got your coffee, but you've missed out on the opportunity to meet your favourite new software developer.
           </p>  
           <Link to="/1" className="clickable-option">
-            Go back to the start.
+            Go back to the start
           </Link> 
  
       </div>

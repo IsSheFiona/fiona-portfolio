@@ -17,9 +17,3 @@ export default function Page1() {
       </div>
     );
   }
-
-
-//   <Route path="/">
-//         <h3>FORK - A Portfolio Text Adventure</h3>
-//         <Link to="/1" className="clickable-option">click here to start</Link>
-//         </Route>

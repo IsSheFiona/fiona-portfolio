@@ -9,10 +9,27 @@
   color: white;
   padding-left: 30px;
   padding-right: 30px;
+  position: relative;
+  background-image: url(https://media.giphy.com/media/XuBNdP9Pb7W9i/source.gif);
 }
 
-.AppLink:hover {
-  background-image: url(https://media.giphy.com/media/XuBNdP9Pb7W9i/source.gif);
+.static-off {
+  background-image: none;
+  background-color: black;
+}
+
+button {
+  background: white;
+  color: black;
+  font-family: 'Press Start 2P', cursive;
+  border: none;
+  font-size: 16px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.text-question {
+  text-align: center;
 }
 
 .clickable-option {
@@ -35,6 +52,8 @@
 
 .coffee {
   font-size: 100px;
+  margin: auto;
+  text-align: center;
 }
 
 /* .container {
